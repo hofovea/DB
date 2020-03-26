@@ -4,9 +4,9 @@
 
 ## Screenshots
 
-![lab](screenshots/avg.png)
+![lab](screenshots/avg.jpg)
 
-![lab](screenshots/golos_xml.png)
+![lab](screenshots/golos_xml.jpg)
 
-![lab](screenshots/scrapping.png)
-![lab](screenshots/table.png)
+![lab](screenshots/scrapping.jpg)
+![lab](screenshots/table.jpg)

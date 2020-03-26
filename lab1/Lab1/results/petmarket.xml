@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shop>
+  <product>
+    <description>Vitapol KARMA - корм для морских свинок, 2 кг, 3 л</description>
+    <price>198 грн</price>
+    <image>https://petmarket.ua/images/27/87318205264060_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Vitapol KARMA - корм для хомяков, 500 г</description>
+    <price>60 грн</price>
+    <image>https://petmarket.ua/images/28/95223339925221_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Beaphar CARE+ Degu - корм для дегу, 700 г</description>
+    <price>230 грн</price>
+    <image>https://petmarket.ua/images/50/23294827102183_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Vitakraft MENU - корм для хомяков - 400 г</description>
+    <price>78 грн</price>
+    <image>https://petmarket.ua/images/34/vitakraft-menu-korm-dlya-khomyakov-74955072587315_small4.jpg</image>
+  </product>
+  <product>
+    <description>Природа КРОЛИК + Биотин - корм для грызунов</description>
+    <price>25 грн</price>
+    <image>https://petmarket.ua/images/9/34027622431832_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Природа КРОЛИК - корм для грызунов</description>
+    <price>25 грн</price>
+    <image>https://petmarket.ua/images/11/38993199449587_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Vitakraft MENU - корм для морских свинок - 400 г</description>
+    <price>78 грн</price>
+    <image>https://petmarket.ua/images/45/vitakraft-menu-korm-dlya-morskikh-svinok-400-g-89873425433334_small4.jpg</image>
+  </product>
+  <product>
+    <description>Beaphar CARE+ Chinchilla - корм для шиншилл, 250 г</description>
+    <price>134 грн</price>
+    <image>https://petmarket.ua/images/39/61674975517190_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Vitapol KARMA - корм для шиншилл, 450 г</description>
+    <price>66 грн</price>
+    <image>https://petmarket.ua/images/14/18465537846424_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Vitapol KROLIKA - корм для кроликов, 2 кг</description>
+    <price>192 грн</price>
+    <image>https://petmarket.ua/images/17/58004769960156_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Olewo Люцерна - пищевая добавка для собак и грызунов - 850 г</description>
+    <price>240 грн</price>
+    <image>https://petmarket.ua/images/46/38516904921654_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Beaphar CARE+ Rat - корм для крыс, 700 г</description>
+    <price>230 грн</price>
+    <image>https://petmarket.ua/images/2/11649970715887_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Padovan GRANDMIX Сavie - корм для морских свинок, 850 г</description>
+    <price>130 грн</price>
+    <image>https://petmarket.ua/images/25/71491876616038_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Padovan GRANDMIX Criceti - корм для хомяков</description>
+    <price>144 грн</price>
+    <image>https://petmarket.ua/images/4/49628755261198_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Padovan GRANDMIX Coniglietti - корм для кроликов, 850 г</description>
+    <price>136 грн</price>
+    <image>https://petmarket.ua/images/5/92230190476462_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Padovan PREMIUM Coniglietti - корм для кроликов, 500 г</description>
+    <price>144 грн</price>
+    <image>https://petmarket.ua/images/13/66990056389703_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Padovan FIENO-HAY - Сено из смешанных луговых трав для грызунов, 1 кг, 20 л</description>
+    <price>139 грн</price>
+    <image>https://petmarket.ua/images/8/42419653092872_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Padovan ALPINE HAY - Альпийское сено для грызунов, 700 г</description>
+    <price>187 грн</price>
+    <image>https://petmarket.ua/images/11/96602516963489_small4.jpeg</image>
+  </product>
+  <product>
+    <description>Versele-Laga NATURE Cavia - Натюр Кавиа - корм для морских свинок, 700 г</description>
+    <price>166 грн</price>
+    <image>https://petmarket.ua/images/48/versele-laga-cavia-nature-korm-dlya-morskikh-svinok-750-g-19969790648144_small4.png</image>
+  </product>
+  <product>
+    <description>Versele-Laga NATURE Cuni - Натюр Куни - корм для кроликов, 700 г</description>
+    <price>166 грн</price>
+    <image>https://petmarket.ua/images/10/versele-laga-cuni-nature-korm-dlya-krolikov-750-g-41215646237923_small4.png</image>
+  </product>
+</shop>

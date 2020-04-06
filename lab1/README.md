@@ -1,12 +1,12 @@
 # Бази даних 2. БД на основі XML: Лабораторна робота 1: Вивчення базових операцій обробки XML-документів
 
-Защик М. О.; КП-73; варіант 10
+Защик М. О.; КП-73; варіант 8
 
 ## Screenshots
 
-![lab](screenshots/avg.png)
+![lab](screenshots/avg.jpg)
 
-![lab](screenshots/golos_xml.png)
+![lab](screenshots/golos_xml.jpg)
 
-![lab](screenshots/scrapping.png)
-![lab](screenshots/table.png)
+![lab](screenshots/scrapping.jpg)
+![lab](screenshots/table.jpg)

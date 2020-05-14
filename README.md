@@ -1,1 +1,3 @@
-Labs from DB course
+#Labs from DB course
+
+Защик Михаїл Олександрович; КП-73; варіант 8
